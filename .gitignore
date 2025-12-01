@@ -1,0 +1,16 @@
+venv/
+venv310/
+.venv/
+
+__pycache__/
+*.pyc
+
+*.dll
+
+*.mp4
+*.avi
+*.mov
+
+*.h5
+*.pt
+*.onnx
